@@ -1,2 +1,2 @@
 # Xtasy2
-Contains like button build on WAMP stack using JQuery
+Contains  login , logout modules and like button build on PHP, Mysql using JQuery
